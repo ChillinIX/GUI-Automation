@@ -4,4 +4,6 @@ pyautogui.click(100, 200); pyautogui.write("Sending a String from the Keyboard T
 
 fw = pyautogui.getActiveWindow()
 
+print ()
+
 print (fw)
